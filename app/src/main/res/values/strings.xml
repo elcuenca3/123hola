@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">examen</string>
+    <string-array name="Razas">
+        <item>Seleccione</item>
+        <item>Mestizo</item>
+        <item>Schauzer</item>
+        <item>Cocker</item>
+        <item>Shih tzu</item>
+        <item>Pastor Aleman</item>
+    </string-array>
+</resources>
